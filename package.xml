@@ -8,7 +8,8 @@
   </description>
 
   <author  >pyni</author>
- 
+ <maintainer email="pyni_sjtu@qq.com">pyni</maintainer>
+  <license>BSD</license>
  
   
   <buildtool_depend>catkin</buildtool_depend>
