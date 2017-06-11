@@ -1,4 +1,4 @@
-# ur_kinematics
+# ur_inverse_solutions
 We refer https://github.com/ros-industrial/universal_robot
 
 This is the analytical solutions for UR robot.
