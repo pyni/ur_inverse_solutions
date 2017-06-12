@@ -8,3 +8,7 @@ Why we use this ?
 Usually, Moveit! ,which uses KDL solver or some other plugins , can not 
 meet our requirements if we want more IK solutions. But for UR5, we can easily 
 get its analytical solutions to obtain all the IK solutions.
+
+
+But this code does not consider about the collision for the robot itself.
+ ![image](https://github.com/pyni/ur_inverse_solutions/blob/master/test.png) 
