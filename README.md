@@ -11,4 +11,5 @@ get its analytical solutions to obtain all the IK solutions.
 
 
 But this code does not consider about the collision for the robot itself.
+Therefore, some solutions can not be used.
  ![image](https://github.com/pyni/ur_inverse_solutions/blob/master/test.png) 
